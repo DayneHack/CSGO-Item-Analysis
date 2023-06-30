@@ -39,7 +39,8 @@ After puling the data, there was a lot of unnecessary information and a lot to c
 * Parsed the rarity from the messy rarity string
 
 ## Exploratory Data Analysis
-Add Pictures
+I made a correlation graph as well of graphs of pivot tables to see the average price of skins accounting for their weapon type, rarity, and condition. Below are a few highlights.
+![alt text](https://github.com/DayneHack/CSGO-Item-Analysis/blob/main/1.png?raw=true)
 
 ## Model Building
 I transformed the categorical variables into dummy variables then I split the data into train and test sets.
