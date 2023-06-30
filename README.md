@@ -41,6 +41,11 @@ After puling the data, there was a lot of unnecessary information and a lot to c
 ## Exploratory Data Analysis
 I made a correlation graph as well of graphs of pivot tables to see the average price of skins accounting for their weapon type, rarity, and condition. Below are a few highlights.
 ![alt text](https://github.com/DayneHack/CSGO-Item-Analysis/blob/main/1.png?raw=true)
+![alt text](https://github.com/DayneHack/CSGO-Item-Analysis/blob/main/2.png?raw=true)
+![alt text](https://github.com/DayneHack/CSGO-Item-Analysis/blob/main/3.png?raw=true)
+![alt text](https://github.com/DayneHack/CSGO-Item-Analysis/blob/main/4.png?raw=true)
+![alt text](https://github.com/DayneHack/CSGO-Item-Analysis/blob/main/5.png?raw=true)
+![alt text](https://github.com/DayneHack/CSGO-Item-Analysis/blob/main/6.png?raw=true)
 
 ## Model Building
 I transformed the categorical variables into dummy variables then I split the data into train and test sets.
@@ -50,5 +55,10 @@ The two models I used are Linear Regression and Random Forest
 
 ## Model Performance
 
-* Random Forest:
-* Linear Regression: 
+* Linear Regression: 121.75
+* Random Forest: 110.42
+
+Neither model performed very well. Random Forest was the most accurate but is still off by 110. 
+
+## Conclusion
+My conclusion is that it is not possible to predict the price of a CS:GO weapon skin based off of factors such as release year, rarity, and condition.
