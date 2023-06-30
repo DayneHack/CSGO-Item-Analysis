@@ -63,4 +63,4 @@ The two models I used are Linear Regression and Random Forest
 Neither model performed very well. Random Forest was the most accurate but is still off by 110. 
 
 ## Conclusion
-My conclusion is that it is not possible to predict the price of a CS:GO weapon skin based off of factors such as release year, rarity, and condition.
+My conclusion is that it is not possible to predict the price of a CS:GO weapon skin based off of factors such as release year, rarity, and condition. Also because of low sample size.
