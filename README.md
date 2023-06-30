@@ -39,7 +39,8 @@ After puling the data, there was a lot of unnecessary information and a lot to c
 * Parsed the rarity from the messy rarity string
 
 ## Exploratory Data Analysis
-I made a correlation graph as well of graphs of pivot tables to see the average price of skins accounting for their weapon type, rarity, and condition. Below are a few highlights.
+I made a correlation graph as well of graphs of pivot tables to see the average price of skins accounting for their 
+weapon type, rarity, and condition. Below are a few highlights.
 ![alt text](https://github.com/DayneHack/CSGO-Item-Analysis/blob/main/1.png?raw=true)
 ![alt text](https://github.com/DayneHack/CSGO-Item-Analysis/blob/main/2.png?raw=true)
 ![alt text](https://github.com/DayneHack/CSGO-Item-Analysis/blob/main/3.png?raw=true)
