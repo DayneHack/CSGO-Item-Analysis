@@ -49,6 +49,9 @@ condition. Below are a few highlights.
 ![alt text](https://github.com/DayneHack/CSGO-Item-Analysis/blob/main/5.png?raw=true)
 ![alt text](https://github.com/DayneHack/CSGO-Item-Analysis/blob/main/6.png?raw=true)
 
+## Tableau Visualizations
+https://public.tableau.com/app/profile/dayne.hack/viz/CSGO-Item-Analysis/Main
+
 ## Model Building
 I transformed the categorical variables into dummy variables then I split the data into train and test sets.
 
